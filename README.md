@@ -2,7 +2,7 @@
 Concept and Prototype
 
 
-# Part 1 and 2 - Solution design 
+## Part 1 and 2 - Solution design 
 
 
 Create some drawings/screenshots that show people what your product looks like. Put them below 
@@ -11,7 +11,19 @@ Create some drawings/screenshots that show people what your product looks like. 
 
 <img width="462" alt="MicrosoftTeams-image (1)" src= "https://github.com/gzelle007/Smart-Baby/blob/feab7ec4a5efe42875a84682dbbebafb6888b15b/Nursery%20mockup.png"> 
 
-### Problems with current baby monitors: 
+#### Current competitors 
+
+- [ ] Lollipop Smart Baby Monitor
+- [ ] Vtech
+- [ ] No monopoly in the market. Each baby monitor that I've researched prior to purchase had their strengths and weaknesses
+- [ ] Opting in for a CCTV monitor as functions are similar and compatible to home hub has better connection, longer range, affordability
+- [ ] Vtevh 
+- [ ] Baby factory 
+- [ ] Nature baby
+- [ ] Uniden
+- [ ] Smartcot
+
+#### Problems with current baby monitors: 
 
 - [ ] Battery life of parent unit
 - [ ] Connection range
@@ -24,19 +36,16 @@ Create some drawings/screenshots that show people what your product looks like. 
 - [ ] Loss of signal
 - [ ] Works like a walky-talky radio 
  
- ### Current solutions to above problems that already exist : 
+ #### Current solutions to above problems that already exist : 
 
 
 
 
 
 
-### Our solutions to above problems,  including purpose, three key features, how it will be built.
+#### Our solutions to above problems,  including purpose, three key features, how it will be built.
 Describe your product/service clearly. Make sure that people understand from the description what it is and what it does. Use a drawing to help explain.
 Describe your product or solution’s X-Factor (unique value proposition).  - Search market to see if there is something that does the moitoring and functional and aesthetically pleasing 
-
-
-Who are your competitors?  
 
 
 Smart baby is an unitrusive and functional smart device.
@@ -47,16 +56,12 @@ Our physical device will then have the ability to connect to a funtional app on 
 
 
 
+Edited lean Canvas put below 
 
 
 
 
-Lean Canvas put below 
-
-
-
-
-# Validation from customers for our solutions 
+#### Validation from customers for our solutions 
 -
 -
 -
