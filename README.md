@@ -33,10 +33,7 @@ Create some drawings/screenshots that show people what your product looks like. 
 
 ### Our solutions to above problems,  including purpose, three key features, how it will be built.
 Describe your product/service clearly. Make sure that people understand from the description what it is and what it does. Use a drawing to help explain.
- 
- Describe how your product or service is going to be built and what help you need to
-build it. - ASK ROMAN 
- Describe your product or solution’s X-Factor (unique value proposition).  - Search market to see if there is something that does the moitoring and functional and aesthetically pleasing 
+Describe your product or solution’s X-Factor (unique value proposition).  - Search market to see if there is something that does the moitoring and functional and aesthetically pleasing 
 
 
 Who are your competitors?  
