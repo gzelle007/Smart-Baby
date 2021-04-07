@@ -4,12 +4,14 @@ Concept and Prototype
 
 ## Part 1 and 2 - Solution design 
 
-
 Create some drawings/screenshots that show people what your product looks like. Put them below 
 
 <img width="462" alt="MicrosoftTeams-image (1)" src="https://github.com/gzelle007/Smart-Baby/blob/51e2bb1316aacd73fdfba16b7e392afe5fdf1cab/Device%20mockup.png">
 
 <img width="462" alt="MicrosoftTeams-image (1)" src= "https://github.com/gzelle007/Smart-Baby/blob/feab7ec4a5efe42875a84682dbbebafb6888b15b/Nursery%20mockup.png"> 
+
+
+<img width="462" alt="MicrosoftTeams-image (1)" src= "https://github.com/gzelle007/Smart-Baby/blob/8ee930bea5c62d237fd56290123c42ba2e99d671/Toddler%20mockup.png"> 
 
 #### Current competitors 
 
