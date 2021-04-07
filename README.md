@@ -7,7 +7,7 @@ Concept and Prototype
 
 Create some drawings/screenshots that show people what your product looks like. Put them below 
 
-
+https://github.com/gzelle007/Smart-Baby/blob/51e2bb1316aacd73fdfba16b7e392afe5fdf1cab/Device%20mockup.png 
 
 
 
