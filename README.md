@@ -51,12 +51,23 @@ Describe your product/service clearly. Make sure that people understand from the
 Describe your product or solution’s X-Factor (unique value proposition).  - Search market to see if there is something that does the moitoring and functional and aesthetically pleasing 
 
 
-Smart baby is an unitrusive and functional smart device.
+Smart baby is an unitrusive and functional smart device monitior for babies and school aged children .
 Key features for our product include:
-- [ ] Light functions
-- [ ] Sound functions 
-- [ ] teaching and blutooth capabilities
-- [ ] wifi connections.
+
+- [ ] Compatible with home hub devices such as Alexa, Google, etc.
+- [ ] Smart phone compatible
+- [ ] High definition 360° camera that can be accessed and moved using phone app
+- [ ] Bluetooth compatible speakers
+- [ ] Plays white noise
+- [ ] Connects to music apps on your phone, such as spotify
+- [ ] Reads e-books
+-	[ ] E-Learning capabilities
+- [ ] Temperature readings
+- [ ] Humidity readings
+- [ ] Digital communication with the child
+- [ ] Functional lights within the balloon
+- [ ] Can be used as a night light
+- [ ] Can be used as a grow clock – light-based signals that teaches your child when to stay in bed and when to wake up and get out of bed
 
 Our physical device will have the ability to connect to a funtional app on the parent(s) phone(s). Feeback we have recieved is that with an app you can't use your phone normally. Our solution to this probelm would be to have the app working in the background. The parent would have a push notifcation come through when there is a distrubance wiithin the childs room.
 
