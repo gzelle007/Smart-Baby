@@ -4,7 +4,7 @@ Concept and Prototype
 
 ## Part 1 and 2 - Solution design 
 
-Create some drawings/screenshots that show people what your product looks like. Put them below 
+Below is our current design for Smart baby shown in a nursery and toddlers bedroom. 
 
 <img width="462" alt="MicrosoftTeams-image (1)" src="https://github.com/gzelle007/Smart-Baby/blob/51e2bb1316aacd73fdfba16b7e392afe5fdf1cab/Device%20mockup.png">
 
@@ -16,14 +16,13 @@ Create some drawings/screenshots that show people what your product looks like. 
 #### Current competitors 
 
 - [ ] Lollipop Smart Baby Monitor
-- [ ] Vtech
-- [ ] No monopoly in the market. Each baby monitor that I've researched prior to purchase had their strengths and weaknesses
-- [ ] Opting in for a CCTV monitor as functions are similar and compatible to home hub has better connection, longer range, affordability
-- [ ] Vtevh 
+- [ ] Vtech 
 - [ ] Baby factory 
 - [ ] Nature baby
 - [ ] Uniden
 - [ ] Smartcot
+
+Even with the above competitors there is currently no monopoly in the market. 
 
 #### Problems with current baby monitors: 
 
@@ -38,7 +37,9 @@ Create some drawings/screenshots that show people what your product looks like. 
 - [ ] Loss of signal
 - [ ] Works like a walky-talky radio 
  
- #### Current solutions to above problems that already exist : 
+ #### Current solutions to above problems that already exist: 
+ 
+ Unsuccesful apps that link to baby monitors 
 
 
 
@@ -51,10 +52,13 @@ Describe your product or solution’s X-Factor (unique value proposition).  - Se
 
 
 Smart baby is an unitrusive and functional smart device.
-Key features for our product include light funtions, sound functions, teaching and blutooth capabilities and wifi connections. 
-Our physical device will then have the ability to connect to a funtional app on the parents phone(s). Feeback we have recieved is that with an app you can't use your phone normally. Our solution to this probelm would be to have the app working in the background. The parent would have a push notifcation come through when there is a distrubance wiithin the childs room.
+Key features for our product include:
+- [ ] Light functions
+- [ ] Sound functions 
+- [ ] teaching and blutooth capabilities
+- [ ] wifi connections.
 
-
+Our physical device will have the ability to connect to a funtional app on the parent(s) phone(s). Feeback we have recieved is that with an app you can't use your phone normally. Our solution to this probelm would be to have the app working in the background. The parent would have a push notifcation come through when there is a distrubance wiithin the childs room.
 
 
 
