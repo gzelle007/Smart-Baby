@@ -33,7 +33,7 @@ We will need a team of app designers along with a technical team able to build t
 
 Hardware and software needed to build the app and device
 
-An investment of $20,000 is needed to develop MVP by end of month
+An investment of $200,000 is needed to develop MVP by end of month
 
 
 #### Validation by Early adopters/customers
