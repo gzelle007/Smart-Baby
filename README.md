@@ -13,6 +13,25 @@ Below is our current design for Smart baby shown in a nursery and toddlers bedro
 
 <img width="462" alt="MicrosoftTeams-image (1)" src= "https://github.com/gzelle007/Smart-Baby/blob/8ee930bea5c62d237fd56290123c42ba2e99d671/Toddler%20mockup.png"> 
 
+#### What is Buddy?
+
+Buddy is an innovative and intuitive smart device that revolutionalizes all of the old classic unchanged baby ecosystem devices of the past decade into one device. Embedded  with modern technology and sensors all accessible via an IoT app. Buddy is the new and only baby ecosystem for you and your family.      
+
+#### Three Key Features
+
+1. Smart Device - Able to monitor health, growth and sleep of your baby all through the Buddy app.
+2. Grow Clock - A sleep trainer for your baby
+3. Baby monitor evolutionalized - A two way monitor for your baby equipped with a 360 degree camera all accessible from the Buddy app
+
+#### What will be built
+
+**** add link to powerpoint
+
+#### Resources needed
+
+We will need a team of app
+
+
 #### Current competitors 
 
 - [ ] Lollipop Smart Baby Monitor
