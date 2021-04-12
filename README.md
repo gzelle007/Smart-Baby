@@ -38,7 +38,19 @@ An investment of $200,000 is needed to develop MVP by end of month
 
 #### Validation by Early adopters/customers
 
-**** Add Link to feedback from customers/clients
+Leroy J, Simpson
+[05 Market validation - Leroy J. Simpson.pdf](https://github.com/gzelle007/Smart-Baby/files/6296253/05.Market.validation.-.Leroy.J.Simpson.pdf)
+
+Christina Timmer
+[05 Market Validation - Christina Timmer.pdf](https://github.com/gzelle007/Smart-Baby/files/6296255/05.Market.Validation.-.Christina.Timmer.pdf)
+
+Bjorn Burton
+[05 Market Validation - Bjorn Burton.pdf](https://github.com/gzelle007/Smart-Baby/files/6296257/05.Market.Validation.-.Bjorn.Burton.pdf)
+
+Tom Marshall
+[05 Market Evaluation Tom Marshall.pdf](https://github.com/gzelle007/Smart-Baby/files/6296258/05.Market.Evaluation.Tom.Marshall.pdf)
+
+
 
 #### Lean Canvas
 First Lean Canvas - Cradle Design
