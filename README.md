@@ -25,7 +25,12 @@ Buddy is an innovative and intuitive smart device that revolutionalizes all of t
 
 #### What will be built
 
-**** add link to powerpoint
+Buddy
+
+[Presentation - Buddy.pdf](https://github.com/gzelle007/Smart-Baby/files/6296283/Presentation.-.Buddy.pdf)
+
+
+**** add link to Figma
 
 #### Resources needed
 
