@@ -47,7 +47,7 @@ An investment of $20,000 is needed to develop MVP by end of month
 
 Buddy is an all in one smart device for the baby ecosystem. Combining functional and unintrusive design paired with an intuitive and innovative app to create the most safe and easy to use device for all your baby and children ecosystem needs. 
 
-Combining all the functions of the past baby monitors, grow clocks, etc into one device and app for a safe, secure and sleeping baby, allowing you the parent to also feel safe, secure and insure better sleep.
+Combining all the functions of the past baby monitors, grow clocks, etc into one device and app for a safe, secure and sleeping baby, allowing you the parent to also feel safe, secure and help you catch a better sleep.
 
 Key features for our product include:
 
