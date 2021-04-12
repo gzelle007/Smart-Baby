@@ -29,7 +29,44 @@ Buddy is an innovative and intuitive smart device that revolutionalizes all of t
 
 #### Resources needed
 
-We will need a team of app
+We will need a team of app designers along with a technical team able to build the device with needed requirements. 
+
+Hardware and software needed to build the app and device
+
+An investment of $20,000 is needed to develop MVP by end of month
+
+
+#### Validation by Early adopters/customers
+
+**** Add Link to feedback from customers/clients
+
+#### Lean Canvas
+
+
+#### X factor/Unique Value Proposition 
+
+Buddy is an all in one smart device for the baby ecosystem. Combining functional and unintrusive design paired with an intuitive and innovative app to create the most safe and easy to use device for all your baby and children ecosystem needs. 
+
+Combining all the functions of the past baby monitors, grow clocks, etc into one device and app for a safe, secure and sleeping baby, allowing you the parent to also feel safe, secure and insure better sleep.
+
+Key features for our product include:
+
+- [ ] Compatible with home hub devices such as Alexa, Google, etc.
+- [ ] Smart phone compatible
+- [ ] High definition 360° camera that can be accessed and moved using phone app
+- [ ] Bluetooth compatible speakers
+- [ ] Plays white noise
+- [ ] Connects to music apps on your phone, such as spotify
+- [ ] Reads e-books
+-	[ ] E-Learning capabilities
+- [ ] Temperature readings
+- [ ] Humidity readings
+- [ ] Digital communication with the child
+- [ ] Functional lights within the balloon
+- [ ] Can be used as a night light
+- [ ] Can be used as a grow clock – light-based signals that teaches your child when to stay in bed and when to wake up and get out of bed
+
+Our physical device will have the ability to connect to a funtional app on the parent(s) phone(s). Feeback we have recieved is that with an app you can't use your phone normally. Our solution to this probelm would be to have the app working in the background. The parent would have a push notifcation come through when there is a distrubance wiithin the childs room.
 
 
 #### Current competitors 
