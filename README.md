@@ -41,6 +41,15 @@ An investment of $20,000 is needed to develop MVP by end of month
 **** Add Link to feedback from customers/clients
 
 #### Lean Canvas
+First Lean Canvas - Cradle Design
+[03 Lean Canvas - Smart Cradle.pdf](https://github.com/gzelle007/Smart-Baby/files/6296179/03.Lean.Canvas.-.Smart.Cradle.pdf)
+
+Second Lean Canvas - Functional design
+[Lean Canvas - Smart Baby Device.pdf](https://github.com/gzelle007/Smart-Baby/files/6296181/Lean.Canvas.-.Smart.Baby.Device.pdf)
+
+Third Lean Canvas - latest iteration of the lean canvas, edited after feedback from peers, clients and customers
+[05 Lean Canvas - Buddy.pdf](https://github.com/gzelle007/Smart-Baby/files/6296178/05.Lean.Canvas.-.Buddy.pdf) 
+
 
 
 #### X factor/Unique Value Proposition 
