@@ -1,4 +1,4 @@
-# Smart-Baby
+# Smart-Baby/Buddy
 Concept and Prototype
 
 
