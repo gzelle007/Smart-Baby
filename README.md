@@ -34,7 +34,7 @@ Buddy App Prototype can be found in
 
 https://www.figma.com/file/snujcP1wrEFNZ6LOK4KoBv/buddy?node-id=5%3A226
 
-<img width="800" alt="MicrosoftTeams-image (1)" src="https://github.com/gzelle007/Smart-Baby/blob/51e2bb1316aacd73fdfba16b7e392afe5fdf1cab/Buddy%App% Prototype.png">
+<img width="462" alt="MicrosoftTeams-image (1)" src="https://github.com/gzelle007/Smart-Baby/blob/51e2bb1316aacd73fdfba16b7e392afe5fdf1cab/BuddyAppPrototype.png">
 
 A video on how Buddy works and operates
 
