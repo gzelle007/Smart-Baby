@@ -32,6 +32,7 @@ Buddy
 
 Buddy App Prototype can be found in https://www.figma.com/file/snujcP1wrEFNZ6LOK4KoBv/buddy?node-id=5%3A226
 
+A video on how Buddy works and operates https://www.youtube.com/watch?app=desktop&v=ygWKiOR5VgM
 
 #### Resources needed
 
