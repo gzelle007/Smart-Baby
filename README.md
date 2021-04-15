@@ -138,3 +138,7 @@ Even with the above competitors there is currently no monopoly in the market.
  #### Current solutions to above problems that already exist: 
  
  Unsuccesful apps that link to baby monitors 
+ 
+ 
+ 
+<img width="462" alt="MicrosoftTeams-image (1)" src= "https://github.com/gzelle007/Smart-Baby/blob/a3fa214c3d37ed37a3d30719745b015743b2b6e1/Six_Pack_Team_MarkingForm.docx">
