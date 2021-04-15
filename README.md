@@ -139,6 +139,10 @@ Even with the above competitors there is currently no monopoly in the market.
  
  Unsuccesful apps that link to baby monitors 
  
+ #### Link to class presentation 
  
+ https://www.youtube.com/watch?v=ANGltvMtCnM 
+ 
+ #### Link to marking form 
  
 https://github.com/gzelle007/Smart-Baby/blob/304363f81c165bfc05e1f62e2e3b115d2eb1dfcb/Six_Pack_Team_MarkingForm.docx 
