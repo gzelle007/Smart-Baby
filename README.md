@@ -141,4 +141,4 @@ Even with the above competitors there is currently no monopoly in the market.
  
  
  
-<img width="462" alt="MicrosoftTeams-image(1)" src="https://github.com/gzelle007/Smart-Baby/blob/a3fa214c3d37ed37a3d30719745b015743b2b6e1/Six_Pack_Team_MarkingForm.docx">
+https://github.com/gzelle007/Smart-Baby/blob/304363f81c165bfc05e1f62e2e3b115d2eb1dfcb/Six_Pack_Team_MarkingForm.docx 
